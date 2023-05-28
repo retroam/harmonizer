@@ -6,7 +6,7 @@ Steps:
 - Go to link
 - Upload file (accepted formats are csv and xlsx)
 - Code will automatically be generated
-- Provide feedback if the code is not as expected
+
 
 
 Future iterations:
