@@ -25,4 +25,4 @@ You need to set the following environment variables in a .env file:
 
 ### Demo
 
-![Demo](demo.gif)
+![Demo](demo_small.gif)
